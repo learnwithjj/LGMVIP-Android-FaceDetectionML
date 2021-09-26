@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473372423600",
+    "project_id": "opencamera-3aa3e",
+    "storage_bucket": "opencamera-3aa3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473372423600:android:5a5a585305feca0d6e1275",
+        "android_client_info": {
+          "package_name": "com.example.opencamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473372423600-7bof7p4hono5h29kg0gm1d2qodus7q7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxrJTZJdY-6Nf8RCw2Ao_4PaMTGb-ckRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473372423600-7bof7p4hono5h29kg0gm1d2qodus7q7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
